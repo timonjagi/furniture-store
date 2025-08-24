@@ -63,15 +63,15 @@ export async function generateMetadata(props: { params: Promise<{ handle: string
     },
     openGraph: url
       ? {
-          images: [
-            {
-              url,
-              width,
-              height,
-              alt,
-            },
-          ],
-        }
+        images: [
+          {
+            url,
+            width,
+            height,
+            alt,
+          },
+        ],
+      }
       : null,
   };
 }
@@ -172,7 +172,7 @@ export default async function ProductPage(props: { params: Promise<{ handle: str
                 </p>
               </div>
               <div className="grid grid-cols-1 gap-4 md:grid-cols-2">
-                <Suspense fallback={<VariantSelectorSlots product={product} fallback />}>
+                <Suspense fallback={<VariantSelectorSlots product={product} />}>
                   <VariantSelectorSlots product={product} />
                 </Suspense>
 

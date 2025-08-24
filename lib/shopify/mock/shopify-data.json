@@ -1,0 +1,1167 @@
+{
+  "products": [
+    {
+      "id": "gid://shopify/Product/1",
+      "title": "Sheila Round Waterflow Rug",
+      "description": "A beautiful round rug with a waterflow pattern.",
+      "descriptionHtml": "<p>A beautiful round rug with a waterflow pattern.</p>",
+      "handle": "sheila-round-waterflow-rug",
+      "productType": "Rugs",
+      "options": [],
+      "images": {
+        "edges": [
+          {
+            "node": {
+              "url": "/Sheila_rug_1_96a5053f-3420-420d-b58f-10f3d17a745c.webp",
+              "altText": "Sheila Round Waterflow Rug",
+              "thumbhash": "mockthumbhash1"
+            }
+          }
+        ]
+      },
+      "priceRange": {
+        "minVariantPrice": {
+          "amount": "169.00",
+          "currencyCode": "USD"
+        }
+      },
+      "compareAtPriceRange": {
+        "minVariantPrice": {
+          "amount": "199.00",
+          "currencyCode": "USD"
+        }
+      },
+      "variants": {
+        "edges": [
+          {
+            "node": {
+              "id": "gid://shopify/ProductVariant/1",
+              "title": "Default",
+              "price": {
+                "amount": "169.00",
+                "currencyCode": "USD"
+              },
+              "availableForSale": true,
+              "selectedOptions": []
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "gid://shopify/Product/2",
+      "title": "Pomme Shell Armchair",
+      "description": "A comfortable armchair with a unique shell design.",
+      "descriptionHtml": "<p>A comfortable armchair with a unique shell design.</p>",
+      "handle": "pomme-shell-armchair",
+      "productType": "armchairs",
+      "options": [
+        {
+          "id": "gid://shopify/ProductOption/1",
+          "name": "Color",
+          "values": [
+            "Pink"
+          ]
+        }
+      ],
+      "images": {
+        "edges": [
+          {
+            "node": {
+              "url": "/Pomme_chair_1_f75296ef-b160-4037-a474-bb5948af859b.webp",
+              "altText": "Pomme Shell Armchair",
+              "thumbhash": "mockthumbhash2"
+            }
+          }
+        ]
+      },
+      "priceRange": {
+        "minVariantPrice": {
+          "amount": "119.00",
+          "currencyCode": "USD"
+        }
+      },
+      "compareAtPriceRange": {
+        "minVariantPrice": {
+          "amount": "119.00",
+          "currencyCode": "USD"
+        }
+      },
+      "variants": {
+        "edges": [
+          {
+            "node": {
+              "id": "gid://shopify/ProductVariant/2",
+              "title": "Pink",
+              "price": {
+                "amount": "119.00",
+                "currencyCode": "USD"
+              },
+              "availableForSale": true,
+              "selectedOptions": [
+                {
+                  "name": "Color",
+                  "value": "Pink"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "gid://shopify/Product/3",
+      "title": "Soda Fluid Shape Rug",
+      "description": "A modern rug with a fluid, abstract shape.",
+      "descriptionHtml": "<p>A modern rug with a fluid, abstract shape.</p>",
+      "handle": "soda-fluid-shape-rug",
+      "productType": "rugs",
+      "options": [],
+      "images": {
+        "edges": [
+          {
+            "node": {
+              "url": "/Soda_rug_1_e083e2ed-4964-4e79-94b1-0cca4c7a9f04.webp",
+              "altText": "Soda Fluid Shape Rug",
+              "thumbhash": "mockthumbhash3"
+            }
+          }
+        ]
+      },
+      "priceRange": {
+        "minVariantPrice": {
+          "amount": "199.00",
+          "currencyCode": "USD"
+        }
+      },
+      "compareAtPriceRange": {
+        "minVariantPrice": {
+          "amount": "219.00",
+          "currencyCode": "USD"
+        }
+      },
+      "variants": {
+        "edges": [
+          {
+            "node": {
+              "id": "gid://shopify/ProductVariant/3",
+              "title": "Default",
+              "price": {
+                "amount": "199.00",
+                "currencyCode": "USD"
+              },
+              "availableForSale": true,
+              "selectedOptions": []
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "gid://shopify/Product/4",
+      "title": "Alloy Plywood Side Chair",
+      "description": "A sleek side chair made from alloy plywood.",
+      "descriptionHtml": "<p>A sleek side chair made from alloy plywood.</p>",
+      "handle": "alloy-plywood-side-chair",
+      "productType": "chairs",
+      "options": [
+        {
+          "id": "gid://shopify/ProductOption/2",
+          "name": "Material",
+          "values": [
+            "Wood"
+          ]
+        }
+      ],
+      "images": {
+        "edges": [
+          {
+            "node": {
+              "url": "/Alloy_chair_1_f7c3887b-360c-4f24-8ab3-740aa5e3b818.webp",
+              "altText": "Alloy Plywood Side Chair",
+              "thumbhash": "mockthumbhash4"
+            }
+          }
+        ]
+      },
+      "priceRange": {
+        "minVariantPrice": {
+          "amount": "149.00",
+          "currencyCode": "USD"
+        }
+      },
+      "compareAtPriceRange": {
+        "minVariantPrice": {
+          "amount": "149.00",
+          "currencyCode": "USD"
+        }
+      },
+      "variants": {
+        "edges": [
+          {
+            "node": {
+              "id": "gid://shopify/ProductVariant/4",
+              "title": "Wood",
+              "price": {
+                "amount": "149.00",
+                "currencyCode": "USD"
+              },
+              "availableForSale": true,
+              "selectedOptions": [
+                {
+                  "name": "Material",
+                  "value": "Wood"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "gid://shopify/Product/5",
+      "title": "Kaya Ceramic Humidifier",
+      "description": "A stylish ceramic humidifier for a comfortable home.",
+      "descriptionHtml": "<p>A stylish ceramic humidifier for a comfortable home.</p>",
+      "handle": "kaya-ceramic-humidifier",
+      "productType": "decors",
+      "options": [],
+      "images": {
+        "edges": [
+          {
+            "node": {
+              "url": "/Kaya_humidifier_1_f1be95cc-4f58-4df9-9393-b5a4148412b2.webp",
+              "altText": "Kaya Ceramic Humidifier",
+              "thumbhash": "mockthumbhash5"
+            }
+          }
+        ]
+      },
+      "priceRange": {
+        "minVariantPrice": {
+          "amount": "89.00",
+          "currencyCode": "USD"
+        }
+      },
+      "compareAtPriceRange": {
+        "minVariantPrice": {
+          "amount": "89.00",
+          "currencyCode": "USD"
+        }
+      },
+      "variants": {
+        "edges": [
+          {
+            "node": {
+              "id": "gid://shopify/ProductVariant/5",
+              "title": "Default",
+              "price": {
+                "amount": "89.00",
+                "currencyCode": "USD"
+              },
+              "availableForSale": true,
+              "selectedOptions": []
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "gid://shopify/Product/6",
+      "title": "Memphis Marble Pattern Rug",
+      "description": "A luxurious rug with a unique Memphis marble pattern.",
+      "descriptionHtml": "<p>A luxurious rug with a unique Memphis marble pattern.</p>",
+      "handle": "memphis-marble-pattern-rug",
+      "productType": "rugs",
+      "options": [],
+      "images": {
+        "edges": [
+          {
+            "node": {
+              "url": "/Memphis_rug_1_c1866ead-cee8-49e0-8c4f-72e583dcab36.webp",
+              "altText": "Memphis Marble Pattern Rug",
+              "thumbhash": "mockthumbhash6"
+            }
+          }
+        ]
+      },
+      "priceRange": {
+        "minVariantPrice": {
+          "amount": "240.00",
+          "currencyCode": "USD"
+        }
+      },
+      "compareAtPriceRange": {
+        "minVariantPrice": {
+          "amount": "340.00",
+          "currencyCode": "USD"
+        }
+      },
+      "variants": {
+        "edges": [
+          {
+            "node": {
+              "id": "gid://shopify/ProductVariant/6",
+              "title": "Default",
+              "price": {
+                "amount": "240.00",
+                "currencyCode": "USD"
+              },
+              "availableForSale": true,
+              "selectedOptions": []
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "gid://shopify/Product/7",
+      "title": "Mika Minimalist Ceramic Planter",
+      "description": "A minimalist ceramic planter for your indoor plants.",
+      "descriptionHtml": "<p>A minimalist ceramic planter for your indoor plants.</p>",
+      "handle": "mika-minimalist-ceramic-planter",
+      "productType": "decors",
+      "options": [],
+      "images": {
+        "edges": [
+          {
+            "node": {
+              "url": "/Mika_Pot_1_6f2b8805-f5b9-4cbf-b40c-8656d439f980.webp",
+              "altText": "Mika Minimalist Ceramic Planter",
+              "thumbhash": "mockthumbhash7"
+            }
+          }
+        ]
+      },
+      "priceRange": {
+        "minVariantPrice": {
+          "amount": "49.00",
+          "currencyCode": "USD"
+        }
+      },
+      "compareAtPriceRange": {
+        "minVariantPrice": {
+          "amount": "49.00",
+          "currencyCode": "USD"
+        }
+      },
+      "variants": {
+        "edges": [
+          {
+            "node": {
+              "id": "gid://shopify/ProductVariant/7",
+              "title": "Default",
+              "price": {
+                "amount": "49.00",
+                "currencyCode": "USD"
+              },
+              "availableForSale": true,
+              "selectedOptions": []
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "gid://shopify/Product/8",
+      "title": "Chief Modern Lounge Chair",
+      "description": "A modern lounge chair with a commanding presence.",
+      "descriptionHtml": "<p>A modern lounge chair with a commanding presence.</p>",
+      "handle": "chief-modern-lounge-chair",
+      "productType": "chairs",
+      "options": [],
+      "images": {
+        "edges": [
+          {
+            "node": {
+              "url": "/Chief_seat_1_a256888d-6893-43bf-adba-a9823f6f7552.webp",
+              "altText": "Chief Modern Lounge Chair",
+              "thumbhash": "mockthumbhash8"
+            }
+          }
+        ]
+      },
+      "priceRange": {
+        "minVariantPrice": {
+          "amount": "349.00",
+          "currencyCode": "USD"
+        }
+      },
+      "compareAtPriceRange": {
+        "minVariantPrice": {
+          "amount": "349.00",
+          "currencyCode": "USD"
+        }
+      },
+      "variants": {
+        "edges": [
+          {
+            "node": {
+              "id": "gid://shopify/ProductVariant/8",
+              "title": "Default",
+              "price": {
+                "amount": "349.00",
+                "currencyCode": "USD"
+              },
+              "availableForSale": true,
+              "selectedOptions": []
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "gid://shopify/Product/9",
+      "title": "Abba Table Lamp",
+      "description": "A stylish table lamp to brighten your space.",
+      "descriptionHtml": "<p>A stylish table lamp to brighten your space.</p>",
+      "handle": "abba-table-lamp",
+      "productType": "table-lamp",
+      "options": [],
+      "images": {
+        "edges": [
+          {
+            "node": {
+              "url": "/Abba_lamp_1_47a3270e-42c9-4f8f-a727-d081089f0e95.webp",
+              "altText": "Abba Table Lamp",
+              "thumbhash": "mockthumbhash9"
+            }
+          }
+        ]
+      },
+      "priceRange": {
+        "minVariantPrice": {
+          "amount": "130.00",
+          "currencyCode": "USD"
+        }
+      },
+      "compareAtPriceRange": {
+        "minVariantPrice": {
+          "amount": "130.00",
+          "currencyCode": "USD"
+        }
+      },
+      "variants": {
+        "edges": [
+          {
+            "node": {
+              "id": "gid://shopify/ProductVariant/9",
+              "title": "Default",
+              "price": {
+                "amount": "130.00",
+                "currencyCode": "USD"
+              },
+              "availableForSale": true,
+              "selectedOptions": []
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "gid://shopify/Product/10",
+      "title": "Faun Textured Throw Pillow",
+      "description": "A soft throw pillow with a unique faun texture.",
+      "descriptionHtml": "<p>A soft throw pillow with a unique faun texture.</p>",
+      "handle": "faun-textured-throw-pillow",
+      "productType": "cushions",
+      "options": [],
+      "images": {
+        "edges": [
+          {
+            "node": {
+              "url": "/Faun_pillow_1_6280e329-7bc0-4d3f-b89c-62e0a7f334f3.webp",
+              "altText": "Faun Textured Throw Pillow",
+              "thumbhash": "mockthumbhash10"
+            }
+          }
+        ]
+      },
+      "priceRange": {
+        "minVariantPrice": {
+          "amount": "45.00",
+          "currencyCode": "USD"
+        }
+      },
+      "compareAtPriceRange": {
+        "minVariantPrice": {
+          "amount": "45.00",
+          "currencyCode": "USD"
+        }
+      },
+      "variants": {
+        "edges": [
+          {
+            "node": {
+              "id": "gid://shopify/ProductVariant/10",
+              "title": "Default",
+              "price": {
+                "amount": "45.00",
+                "currencyCode": "USD"
+              },
+              "availableForSale": true,
+              "selectedOptions": []
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "gid://shopify/Product/11",
+      "title": "Bliss Arched Desk Lamp",
+      "description": "An elegant arched desk lamp for your workspace.",
+      "descriptionHtml": "<p>An elegant arched desk lamp for your workspace.</p>",
+      "handle": "bliss-arched-desk-lamp",
+      "productType": "table-lamp",
+      "options": [],
+      "images": {
+        "edges": [
+          {
+            "node": {
+              "url": "/Bliss_lamp_1_f4a73853-5fb2-4210-b9ee-4fa210851099.webp",
+              "altText": "Bliss Arched Desk Lamp",
+              "thumbhash": "mockthumbhash11"
+            }
+          }
+        ]
+      },
+      "priceRange": {
+        "minVariantPrice": {
+          "amount": "109.00",
+          "currencyCode": "USD"
+        }
+      },
+      "compareAtPriceRange": {
+        "minVariantPrice": {
+          "amount": "109.00",
+          "currencyCode": "USD"
+        }
+      },
+      "variants": {
+        "edges": [
+          {
+            "node": {
+              "id": "gid://shopify/ProductVariant/11",
+              "title": "Default",
+              "price": {
+                "amount": "109.00",
+                "currencyCode": "USD"
+              },
+              "availableForSale": true,
+              "selectedOptions": []
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "gid://shopify/Product/12",
+      "title": "Adhana Wooden Pendant Lamp",
+      "description": "A beautiful wooden pendant lamp for a natural touch.",
+      "descriptionHtml": "<p>A beautiful wooden pendant lamp for a natural touch.</p>",
+      "handle": "adhana-wooden-pendant-lamp",
+      "productType": "ceiling-light",
+      "options": [],
+      "images": {
+        "edges": [
+          {
+            "node": {
+              "url": "/Adhana_lamp_1_d09a7d49-bd1d-4a6c-8bef-1efdbf2d10db.webp",
+              "altText": "Adhana Wooden Pendant Lamp",
+              "thumbhash": "mockthumbhash12"
+            }
+          }
+        ]
+      },
+      "priceRange": {
+        "minVariantPrice": {
+          "amount": "130.00",
+          "currencyCode": "USD"
+        }
+      },
+      "compareAtPriceRange": {
+        "minVariantPrice": {
+          "amount": "130.00",
+          "currencyCode": "USD"
+        }
+      },
+      "variants": {
+        "edges": [
+          {
+            "node": {
+              "id": "gid://shopify/ProductVariant/12",
+              "title": "Default",
+              "price": {
+                "amount": "130.00",
+                "currencyCode": "USD"
+              },
+              "availableForSale": true,
+              "selectedOptions": []
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "gid://shopify/Product/13",
+      "title": "Suryai Glass Table Lamp",
+      "description": "A modern glass table lamp with a unique design.",
+      "descriptionHtml": "<p>A modern glass table lamp with a unique design.</p>",
+      "handle": "suryai-glass-table-lamp",
+      "productType": "table-lamp",
+      "options": [],
+      "images": {
+        "edges": [
+          {
+            "node": {
+              "url": "/Suryai_lamp_1_cb545447-d1fc-454e-98c8-5a091f079a3b.webp",
+              "altText": "Suryai Glass Table Lamp",
+              "thumbhash": "mockthumbhash13"
+            }
+          }
+        ]
+      },
+      "priceRange": {
+        "minVariantPrice": {
+          "amount": "139.00",
+          "currencyCode": "USD"
+        }
+      },
+      "compareAtPriceRange": {
+        "minVariantPrice": {
+          "amount": "139.00",
+          "currencyCode": "USD"
+        }
+      },
+      "variants": {
+        "edges": [
+          {
+            "node": {
+              "id": "gid://shopify/ProductVariant/13",
+              "title": "Default",
+              "price": {
+                "amount": "139.00",
+                "currencyCode": "USD"
+              },
+              "availableForSale": true,
+              "selectedOptions": []
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "gid://shopify/Product/14",
+      "title": "Duna Pistachio Lounge Chair",
+      "description": "A comfortable lounge chair in a unique pistachio color.",
+      "descriptionHtml": "<p>A comfortable lounge chair in a unique pistachio color.</p>",
+      "handle": "duna-pistachio-lounge-chair",
+      "productType": "chairs",
+      "options": [
+        {
+          "id": "gid://shopify/ProductOption/3",
+          "name": "Color",
+          "values": [
+            "Cream",
+            "Green"
+          ]
+        }
+      ],
+      "images": {
+        "edges": [
+          {
+            "node": {
+              "url": "/Duna_Seat_Color_Pink_1_023889eb-97ba-4cac-a946-1a3fa8e7b7ea.webp",
+              "altText": "Duna Pistachio Lounge Chair",
+              "thumbhash": "mockthumbhash14"
+            }
+          }
+        ]
+      },
+      "priceRange": {
+        "minVariantPrice": {
+          "amount": "229.00",
+          "currencyCode": "USD"
+        }
+      },
+      "compareAtPriceRange": {
+        "minVariantPrice": {
+          "amount": "229.00",
+          "currencyCode": "USD"
+        }
+      },
+      "variants": {
+        "edges": [
+          {
+            "node": {
+              "id": "gid://shopify/ProductVariant/14",
+              "title": "Cream",
+              "price": {
+                "amount": "229.00",
+                "currencyCode": "USD"
+              },
+              "availableForSale": true,
+              "selectedOptions": [
+                {
+                  "name": "Color",
+                  "value": "Cream"
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "id": "gid://shopify/ProductVariant/15",
+              "title": "Green",
+              "price": {
+                "amount": "229.00",
+                "currencyCode": "USD"
+              },
+              "availableForSale": true,
+              "selectedOptions": [
+                {
+                  "name": "Color",
+                  "value": "Green"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15",
+      "title": "Nest Black Pendant Lamp",
+      "description": "A sleek black pendant lamp with a nest-like design.",
+      "descriptionHtml": "<p>A sleek black pendant lamp with a nest-like design.</p>",
+      "handle": "nest-black-pendant-lamp",
+      "productType": "ceiling-light",
+      "options": [],
+      "images": {
+        "edges": [
+          {
+            "node": {
+              "url": "/Nest_lamp_1_530cf975-230d-4ade-8af7-595225b11e94.webp",
+              "altText": "Nest Black Pendant Lamp",
+              "thumbhash": "mockthumbhash15"
+            }
+          }
+        ]
+      },
+      "priceRange": {
+        "minVariantPrice": {
+          "amount": "139.00",
+          "currencyCode": "USD"
+        }
+      },
+      "compareAtPriceRange": {
+        "minVariantPrice": {
+          "amount": "139.00",
+          "currencyCode": "USD"
+        }
+      },
+      "variants": {
+        "edges": [
+          {
+            "node": {
+              "id": "gid://shopify/ProductVariant/16",
+              "title": "Default",
+              "price": {
+                "amount": "139.00",
+                "currencyCode": "USD"
+              },
+              "availableForSale": true,
+              "selectedOptions": []
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "gid://shopify/Product/16",
+      "title": "Ranch Hide Patchwork Rug",
+      "description": "A rustic patchwork rug made from ranch hide.",
+      "descriptionHtml": "<p>A rustic patchwork rug made from ranch hide.</p>",
+      "handle": "ranch-hide-patchwork-rug",
+      "productType": "rugs",
+      "options": [],
+      "images": {
+        "edges": [
+          {
+            "node": {
+              "url": "/Ranch_rug_1_4733a9fe-a3b0-4657-8968-6bddc267f099.webp",
+              "altText": "Ranch Hide Patchwork Rug",
+              "thumbhash": "mockthumbhash16"
+            }
+          }
+        ]
+      },
+      "priceRange": {
+        "minVariantPrice": {
+          "amount": "0.00",
+          "currencyCode": "USD"
+        }
+      },
+      "compareAtPriceRange": {
+        "minVariantPrice": {
+          "amount": "0.00",
+          "currencyCode": "USD"
+        }
+      },
+      "variants": {
+        "edges": [
+          {
+            "node": {
+              "id": "gid://shopify/ProductVariant/17",
+              "title": "Default",
+              "price": {
+                "amount": "0.00",
+                "currencyCode": "USD"
+              },
+              "availableForSale": true,
+              "selectedOptions": []
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "gid://shopify/Product/17",
+      "title": "Nagoya Sculptural Table Lamp",
+      "description": "A sculptural table lamp inspired by Nagoya design.",
+      "descriptionHtml": "<p>A sculptural table lamp inspired by Nagoya design.</p>",
+      "handle": "nagoya-sculptural-table-lamp",
+      "productType": "table-lamp",
+      "options": [],
+      "images": {
+        "edges": [
+          {
+            "node": {
+              "url": "/Nagoya_lamp_1_5cc0a96e-4dee-44ea-9ed0-3986a147a210.webp",
+              "altText": "Nagoya Sculptural Table Lamp",
+              "thumbhash": "mockthumbhash17"
+            }
+          }
+        ]
+      },
+      "priceRange": {
+        "minVariantPrice": {
+          "amount": "179.00",
+          "currencyCode": "USD"
+        }
+      },
+      "compareAtPriceRange": {
+        "minVariantPrice": {
+          "amount": "179.00",
+          "currencyCode": "USD"
+        }
+      },
+      "variants": {
+        "edges": [
+          {
+            "node": {
+              "id": "gid://shopify/ProductVariant/18",
+              "title": "Default",
+              "price": {
+                "amount": "179.00",
+                "currencyCode": "USD"
+              },
+              "availableForSale": true,
+              "selectedOptions": []
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "gid://shopify/Product/18",
+      "title": "Ra Round Velvet Cushion",
+      "description": "A luxurious round velvet cushion.",
+      "descriptionHtml": "<p>A luxurious round velvet cushion.</p>",
+      "handle": "ra-round-velvet-cushion",
+      "productType": "cushions",
+      "featured": true,
+      "options": [
+        {
+          "id": "gid://shopify/ProductOption/4",
+          "name": "Color",
+          "values": [
+            "Yellow",
+            "Pink"
+          ]
+        }
+      ],
+      "images": {
+        "edges": [
+          {
+            "node": {
+              "url": "/Ra_cushion_color_yellow_1_30735be1-e384-44e6-ae34-c993f8884bfe.webp",
+              "altText": "Ra Round Velvet Cushion",
+              "thumbhash": "mockthumbhash18"
+            }
+          }
+        ]
+      },
+      "priceRange": {
+        "minVariantPrice": {
+          "amount": "150.00",
+          "currencyCode": "USD"
+        }
+      },
+      "compareAtPriceRange": {
+        "minVariantPrice": {
+          "amount": "150.00",
+          "currencyCode": "USD"
+        }
+      },
+      "variants": {
+        "edges": [
+          {
+            "node": {
+              "id": "gid://shopify/ProductVariant/19",
+              "title": "Yellow",
+              "price": {
+                "amount": "150.00",
+                "currencyCode": "USD"
+              },
+              "availableForSale": true,
+              "selectedOptions": [
+                {
+                  "name": "Color",
+                  "value": "Yellow"
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "id": "gid://shopify/ProductVariant/20",
+              "title": "Pink",
+              "price": {
+                "amount": "150.00",
+                "currencyCode": "USD"
+              },
+              "availableForSale": true,
+              "selectedOptions": [
+                {
+                  "name": "Color",
+                  "value": "Pink"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "gid://shopify/Product/19",
+      "title": "Azure Folding Metal Chair",
+      "description": "A practical and stylish folding metal chair in azure.",
+      "descriptionHtml": "<p>A practical and stylish folding metal chair in azure.</p>",
+      "handle": "azure-folding-metal-chair",
+      "productType": "chairs",
+      "featured": true,
+      "options": [],
+      "images": {
+        "edges": [
+          {
+            "node": {
+              "url": "/placeholder.jpg",
+              "altText": "Azure Folding Metal Chair",
+              "thumbhash": "mockthumbhash19"
+            }
+          }
+        ]
+      },
+      "priceRange": {
+        "minVariantPrice": {
+          "amount": "78.00",
+          "currencyCode": "USD"
+        }
+      },
+      "compareAtPriceRange": {
+        "minVariantPrice": {
+          "amount": "78.00",
+          "currencyCode": "USD"
+        }
+      },
+      "variants": {
+        "edges": [
+          {
+            "node": {
+              "id": "gid://shopify/ProductVariant/21",
+              "title": "Default",
+              "price": {
+                "amount": "78.00",
+                "currencyCode": "USD"
+              },
+              "availableForSale": true,
+              "selectedOptions": []
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "gid://shopify/Product/20",
+      "title": "Verde Leather Lounge Chair",
+      "description": "A luxurious leather lounge chair in a rich verde color.",
+      "descriptionHtml": "<p>A luxurious leather lounge chair in a rich verde color.</p>",
+      "handle": "verde-leather-lounge-chair",
+      "productType": "chairs",
+      "options": [],
+      "images": {
+        "edges": [
+          {
+            "node": {
+              "url": "/Verde_armchair_1_11189552-9191-4249-b93e-c4b42704c4be.webp",
+              "altText": "Verde Leather Lounge Chair",
+              "thumbhash": "mockthumbhash20"
+            }
+          }
+        ]
+      },
+      "priceRange": {
+        "minVariantPrice": {
+          "amount": "499.00",
+          "currencyCode": "USD"
+        }
+      },
+      "compareAtPriceRange": {
+        "minVariantPrice": {
+          "amount": "499.00",
+          "currencyCode": "USD"
+        }
+      },
+      "variants": {
+        "edges": [
+          {
+            "node": {
+              "id": "gid://shopify/ProductVariant/22",
+              "title": "Default",
+              "price": {
+                "amount": "499.00",
+                "currencyCode": "USD"
+              },
+              "availableForSale": true,
+              "selectedOptions": []
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "collections": [
+    {
+      "id": "gid://shopify/Collection/1",
+      "title": "Featured",
+      "handle": "featured",
+      "description": "Our featured products.",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0533/2088/1000/collections/featured.jpg",
+        "altText": "Featured Collection",
+        "thumbhash": "mockthumbhash3"
+      }
+    },
+    {
+      "id": "gid://shopify/Collection/2",
+      "title": "Chairs",
+      "handle": "chairs",
+      "description": "Comfortable chairs for every space.",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0533/2088/1000/collections/chairs.jpg",
+        "altText": "Chairs Collection",
+        "thumbhash": "mockthumbhash4"
+      }
+    },
+    {
+      "id": "gid://shopify/Collection/3",
+      "title": "Armchairs",
+      "handle": "armchairs",
+      "description": "Stylish and cozy armchairs.",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0533/2088/1000/collections/armchairs.jpg",
+        "altText": "Armchairs Collection",
+        "thumbhash": "mockthumbhash5"
+      }
+    },
+    {
+      "id": "gid://shopify/Collection/4",
+      "title": "Table lamp",
+      "handle": "table-lamp",
+      "description": "Illuminate your space with our table lamps.",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0533/2088/1000/collections/table-lamp.jpg",
+        "altText": "Table Lamp Collection",
+        "thumbhash": "mockthumbhash6"
+      }
+    },
+    {
+      "id": "gid://shopify/Collection/5",
+      "title": "Ceiling Light",
+      "handle": "ceiling-light",
+      "description": "Modern ceiling-lights for your home.",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0533/2088/1000/collections/ceiling-light.jpg",
+        "altText": "ceiling-light Collection",
+        "thumbhash": "mockthumbhash7"
+      }
+    },
+    {
+      "id": "gid://shopify/Collection/6",
+      "title": "Decors",
+      "handle": "decors",
+      "description": "Beautiful decorations for every room.",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0533/2088/1000/collections/decors.jpg",
+        "altText": "Decors Collection",
+        "thumbhash": "mockthumbhash8"
+      }
+    },
+    {
+      "id": "gid://shopify/Collection/7",
+      "title": "Rugs",
+      "handle": "rugs",
+      "description": "Soft and stylish rugs.",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0533/2088/1000/collections/rugs.jpg",
+        "altText": "Rugs Collection",
+        "thumbhash": "mockthumbhash9"
+      }
+    },
+    {
+      "id": "gid://shopify/Collection/8",
+      "title": "Cushions",
+      "handle": "cushions",
+      "description": "Comfortable cushions for your seating.",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0533/2088/1000/collections/cushions.jpg",
+        "altText": "Cushions Collection",
+        "thumbhash": "mockthumbhash10"
+      }
+    }
+  ],
+  "carts": {
+    "gid://shopify/Cart/1": {
+      "id": "gid://shopify/Cart/1",
+      "lines": {
+        "edges": []
+      },
+      "cost": {
+        "totalAmount": {
+          "amount": "0.00",
+          "currencyCode": "USD"
+        },
+        "subtotalAmount": {
+          "amount": "0.00",
+          "currencyCode": "USD"
+        },
+        "totalTaxAmount": {
+          "amount": "0.00",
+          "currencyCode": "USD"
+        }
+      },
+      "checkoutUrl": "https://mock-shopify.com/cart/gid://shopify/Cart/1/checkout"
+    }
+  }
+}

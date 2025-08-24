@@ -30,7 +30,7 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "ACME Store",
   description: "ACME Store, your one-stop shop for all your needs.",
-    generator: 'v0.app'
+  generator: 'v0.app'
 }
 
 /**

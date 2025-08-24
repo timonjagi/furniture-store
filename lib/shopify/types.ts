@@ -98,7 +98,7 @@ export interface ShopifyCartLine {
 export interface ShopifyCart {
   id: string;
   lines: {
-    edges: Array<{ node: ShopifyCartLine }>;
+    edges: Array<ShopifyCartLineEdge>;
   };
   cost: {
     totalAmount: {
@@ -116,6 +116,8 @@ export interface ShopifyCart {
   };
   checkoutUrl: string;
 }
+
+export type ShopifyCartLineEdge = { node: ShopifyCartLine };
 
 // Clean types for the new Shopify-only structure
 export type Collection = {

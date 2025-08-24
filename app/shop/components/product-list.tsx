@@ -9,6 +9,7 @@ interface ProductListProps {
 }
 
 export default async function ProductList({ collection, searchParams }: ProductListProps) {
+  console.log('Rendering ProductList for collection:', collection, 'with searchParams:', searchParams);
   const query = typeof searchParams?.q === 'string' ? searchParams.q : undefined;
   const sort = typeof searchParams?.sort === 'string' ? searchParams.sort : undefined;
   const isRootCollection = collection === 'joyco-root' || !collection;

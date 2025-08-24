@@ -14,6 +14,11 @@ export default async function Home() {
   try {
     if (collections.length > 0) {
       featuredProducts = await getCollectionProducts({ collection: collections[0].handle });
+
+      if (featuredProducts.length === 0) {
+        const allProducts = await getProducts({});
+        featuredProducts = allProducts.slice(0, 8);
+      }
     } else {
       const allProducts = await getProducts({});
       featuredProducts = allProducts.slice(0, 8);

@@ -10,7 +10,7 @@ const SHOPIFY_STORE_DOMAIN = rawStoreDomain ? parseShopifyDomain(rawStoreDomain)
 const SHOPIFY_STOREFRONT_API_URL = `https://${SHOPIFY_STORE_DOMAIN}/api/2025-07/graphql.json`;
 
 // Tokenless Shopify API request
-async function shopifyFetch<T>({
+export async function shopifyFetch<T>({
   query,
   variables = {},
 }: {

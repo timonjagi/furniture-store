@@ -16,7 +16,7 @@ export const navItems: NavItem[] = [
   },
   {
     label: 'featured',
-    href: '/shop/frontpage',
+    href: '/shop/featured',
   },
   {
     label: 'shop all',
