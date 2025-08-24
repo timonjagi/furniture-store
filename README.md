@@ -1,6 +1,14 @@
 # Furniture Store E-commerce Template
 
-A modern e-commerce storefront built with Next.js, integrated with Shopify for product management, and styled with Tailwind CSS and Tamagui. This template provides a robust foundation for building a high-performance online furniture store.
+A minimal, high-performance eCommerce frontend fully integrated with Shopify.
+
+It packs:
+• Fast-loading pages optimized for conversion
+• Seamless Shopify integration for live product data
+• Clean, minimal design focused on the essentials
+• Built-in cart and checkout flow
+• Easy to customize and extend for your brand
+• Drop it in, connect your store, and start selling with style and speed.
 
 ## Features
 
@@ -12,14 +20,13 @@ A modern e-commerce storefront built with Next.js, integrated with Shopify for p
 *   **Responsive Design**: Optimized for various screen sizes, from mobile to desktop.
 *   **Shopify Integration**: Seamlessly pulls product data from a Shopify store.
 *   **Performance**: Built with Next.js for fast page loads and a great user experience.
-*   **Styling**: Modern and customizable UI with Tailwind CSS and Tamagui.
+*   **Styling**: Modern and customizable UI with Tailwind CSS.
 
 ## Technologies Used
 
 *   **Next.js**: React framework for building performant web applications.
 *   **React**: JavaScript library for building user interfaces.
 *   **Tailwind CSS**: A utility-first CSS framework for rapid UI development.
-*   **Tamagui**: A universal UI kit for React Native and Web.
 *   **Shopify Storefront API**: For fetching product data.
 *   **TypeScript**: For type-safe code.
 
