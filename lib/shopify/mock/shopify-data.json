@@ -369,6 +369,7 @@
       "descriptionHtml": "<p>A modern lounge chair with a commanding presence.</p>",
       "handle": "chief-modern-lounge-chair",
       "productType": "chairs",
+      "featured": true,
       "options": [],
       "images": {
         "edges": [
@@ -657,6 +658,7 @@
       "descriptionHtml": "<p>A comfortable lounge chair in a unique pistachio color.</p>",
       "handle": "duna-pistachio-lounge-chair",
       "productType": "chairs",
+      "featured": true,
       "options": [
         {
           "id": "gid://shopify/ProductOption/3",
@@ -784,6 +786,7 @@
       "descriptionHtml": "<p>A rustic patchwork rug made from ranch hide.</p>",
       "handle": "ranch-hide-patchwork-rug",
       "productType": "rugs",
+      "featured": true,
       "options": [],
       "images": {
         "edges": [
@@ -966,7 +969,7 @@
         "edges": [
           {
             "node": {
-              "url": "/placeholder.jpg",
+              "url": "/Azure_chair_1_87375d91-8fda-4072-b3ef-9cb57036771d.webp",
               "altText": "Azure Folding Metal Chair",
               "thumbhash": "mockthumbhash19"
             }
@@ -1009,6 +1012,7 @@
       "descriptionHtml": "<p>A luxurious leather lounge chair in a rich verde color.</p>",
       "handle": "verde-leather-lounge-chair",
       "productType": "chairs",
+      "featured": true,
       "options": [],
       "images": {
         "edges": [
@@ -1030,6 +1034,102 @@
       "compareAtPriceRange": {
         "minVariantPrice": {
           "amount": "499.00",
+          "currencyCode": "USD"
+        }
+      },
+      "variants": {
+        "edges": [
+          {
+            "node": {
+              "id": "gid://shopify/ProductVariant/22",
+              "title": "Default",
+              "price": {
+                "amount": "499.00",
+                "currencyCode": "USD"
+              },
+              "availableForSale": true,
+              "selectedOptions": []
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "gid://shopify/Product/21",
+      "title": "Chief Modern Lounge Chair",
+      "description": "A luxurious leather lounge chair in a rich verde color.",
+      "descriptionHtml": "<p>A luxurious leather lounge chair in a rich verde color.</p>",
+      "handle": "verde-leather-lounge-chair",
+      "productType": "chairs",
+      "options": [],
+      "images": {
+        "edges": [
+          {
+            "node": {
+              "url": "/Chief_seat_1_a256888d-6893-43bf-adba-a9823f6f7552.webp",
+              "altText": "Verde Leather Lounge Chair",
+              "thumbhash": "mockthumbhash20"
+            }
+          }
+        ]
+      },
+      "priceRange": {
+        "minVariantPrice": {
+          "amount": "349.00",
+          "currencyCode": "USD"
+        }
+      },
+      "compareAtPriceRange": {
+        "minVariantPrice": {
+          "amount": "349.00",
+          "currencyCode": "USD"
+        }
+      },
+      "variants": {
+        "edges": [
+          {
+            "node": {
+              "id": "gid://shopify/ProductVariant/22",
+              "title": "Default",
+              "price": {
+                "amount": "499.00",
+                "currencyCode": "USD"
+              },
+              "availableForSale": true,
+              "selectedOptions": []
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "gid://shopify/Product/20",
+      "title": "Duna Pistachio Lounge Chair",
+      "description": "A luxurious leather lounge chair in a rich verde color.",
+      "descriptionHtml": "<p>A luxurious leather lounge chair in a rich verde color.</p>",
+      "handle": "verde-leather-lounge-chair",
+      "productType": "chairs",
+      "options": [],
+      "images": {
+        "edges": [
+          {
+            "node": {
+              "url": "/Verde_armchair_1_11189552-9191-4249-b93e-c4b42704c4be.webp",
+              "altText": "Verde Leather Lounge Chair",
+              "thumbhash": "mockthumbhash20"
+            }
+          }
+        ]
+      },
+      "priceRange": {
+        "minVariantPrice": {
+          "amount": "229.00",
+          "currencyCode": "USD"
+        }
+      },
+      "compareAtPriceRange": {
+        "minVariantPrice": {
+          "amount": "229.00",
           "currencyCode": "USD"
         }
       },
